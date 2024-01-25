@@ -2,8 +2,8 @@
       width: 500px;
       height: 500px;
       border: 1px solid red;
-      background-image: url(./muhammad.jpg)"width-100%";
+      background-image: url(./muhammad.jpg);
       background-repeat: no-repeat;
       text-align: center;
-      
+      background-size:100%;
 }
